@@ -1,4 +1,4 @@
-# MY---FIRST---PRIJECT
+# MY---FIRST---PROJECT
 in thi s projec t , us in g html, c s s and javas c r ipt . i have
 buil t a respons i ve e commer ce webs i te f rom s c rat ch.
 I have learnt the above ment ioned technolo g ies
